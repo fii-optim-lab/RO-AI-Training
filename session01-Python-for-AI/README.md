@@ -15,4 +15,5 @@ The contents of this session will briefly cover basic Python features and will a
 > - NumPy comes with a large body of mathematical functions usefull for AI.
 
 * For a quickstarter, check https://numpy.org/doc/stable/user/absolute_beginners.html.
-* 
+* Do the following exercises: [02-NumpyExercises.ipynb](02-NumpyExercises.ipynb)
+
