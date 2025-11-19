@@ -22,3 +22,5 @@ The contents of this session will briefly cover basic Python features and will a
 
 > - You will use Pandas to load and manipulate csv data.
 > - You will use Matplotlib for vizualization.
+
+* Check [03-PandasMaplotlib.ipynb](03-PandasMaplotlib.ipynb).
