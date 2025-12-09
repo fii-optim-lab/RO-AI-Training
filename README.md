@@ -1,6 +1,6 @@
 # RO-AI-Training
 
-Training sessions for the Academic Olimpiad of Artificial Intelligence, organized by FII, UAIC.
+Training sessions for the Olimpiads of Artificial Intelligence, organized by FII, UAIC.
 
 ***
 
