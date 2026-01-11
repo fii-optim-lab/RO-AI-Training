@@ -13,3 +13,4 @@ In parallel you may follow the [AI-Learning-Hub](https://github.com/Tensor-Reloa
 * [Session 01: Python for AI](./session01-Python-for-AI): Introduction to Python, usefull libraries, text and image manipulation with Python.
 * [Session 02: Data Preprocessing](./session02-Data-Preprocessing): data normalization, standardization, handling missing values.
 * [Session 03: AI Search](./session03-AI-Search): BFS, DFS, A*.
+* [Session 04: Supervised learning: Classification](./session04-Supervised-learning-Classification): KNN, decision trees, fundamentals of Data Science.
