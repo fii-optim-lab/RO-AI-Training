@@ -14,3 +14,4 @@ In parallel you may follow the [AI-Learning-Hub](https://github.com/Tensor-Reloa
 * [Session 02: Data Preprocessing](./session02-Data-Preprocessing): data normalization, standardization, handling missing values.
 * [Session 03: AI Search](./session03-AI-Search): BFS, DFS, A*.
 * [Session 04: Supervised learning: Classification](./session04-Supervised-learning-Classification): KNN, decision trees, fundamentals of Data Science.
+* [Session 05: Supervised learning: Classification](./session05-Supervised-learning-Classification): Naive Bayes, Perceptron, MLP, SVM, unbalanced data.
