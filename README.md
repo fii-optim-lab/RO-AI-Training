@@ -15,3 +15,4 @@ In parallel you may follow the [AI-Learning-Hub](https://github.com/Tensor-Reloa
 * [Session 03: AI Search](./session03-AI-Search): BFS, DFS, A*.
 * [Session 04: Supervised learning: Classification](./session04-Supervised-learning-Classification): KNN, decision trees, fundamentals of Data Science.
 * [Session 05: Supervised learning: Classification](./session05-Supervised-learning-Classification): Naive Bayes, Perceptron, MLP, SVM, unbalanced data.
+* [Session 06: Supervised learning: Classification](./session06-Supervised-learning-Classification): Ensemble methods: gradient boosting, bagging, voting, stacking.
