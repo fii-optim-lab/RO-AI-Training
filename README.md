@@ -18,3 +18,4 @@ In parallel you may follow the [AI-Learning-Hub](https://github.com/Tensor-Reloa
 * [Session 06: Supervised learning: Classification](./session06-Supervised-learning-Classification): Ensemble methods: gradient boosting, bagging, voting, stacking.
 * [Session 07: Regression](./session07-Regression): Theoretical foundations for Linear Regression and Logistic Regression.
 * [Session 08: Clustering](./session07-Clustering): Clustering algorithms
+* [Session 10: Image processing](./session10-Image-processing): feature extraction, augmentation, classification
