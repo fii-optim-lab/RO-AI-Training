@@ -17,5 +17,6 @@ In parallel you may follow the [AI-Learning-Hub](https://github.com/Tensor-Reloa
 * [Session 05: Supervised learning: Classification](./session05-Supervised-learning-Classification): Naive Bayes, Perceptron, MLP, SVM, unbalanced data.
 * [Session 06: Supervised learning: Classification](./session06-Supervised-learning-Classification): Ensemble methods: gradient boosting, bagging, voting, stacking.
 * [Session 07: Regression](./session07-Regression): Theoretical foundations for Linear Regression and Logistic Regression.
-* [Session 08: Clustering](./session07-Clustering): Clustering algorithms
+* [Session 08: Clustering](./session08-Clustering): Clustering algorithms
 * [Session 10: Image processing](./session10-Image-processing): feature extraction, augmentation, classification
+* [Session 11: Text Processing](./session11-Text-processing): Embeddings, classification, training & evaluating models
