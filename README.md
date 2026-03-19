@@ -20,3 +20,5 @@ In parallel you may follow the [AI-Learning-Hub](https://github.com/Tensor-Reloa
 * [Session 08: Clustering](./session08-Clustering): Clustering algorithms
 * [Session 10: Image processing](./session10-Image-processing): feature extraction, augmentation, classification
 * [Session 11: Text Processing](./session11-Text-processing): Embeddings, classification, training & evaluating models
+* [Session 12: Deep Learning 1](./session12-Deep-Learning-1): 
+* [Session 13: Deep Learning 2](./session13-Deep-Learning-2): 
